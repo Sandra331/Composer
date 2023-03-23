@@ -1,0 +1,10 @@
+{
+    "name": "sandraguillemeton/test",
+    "description": "premier essai de test composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
